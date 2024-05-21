@@ -14,7 +14,7 @@ This To-Do List app helps users organize and manage their tasks and activities. 
 
 ## Demo
 
-Insert gif or link to demo
+https://to-do-listapp1.netlify.app
 
 
 ## Tech Stack
