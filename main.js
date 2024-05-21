@@ -20,3 +20,13 @@ document.querySelector('#button').addEventListener('click', function (){
     tasklist.appendChild(newtask);
     document.querySelector('input').value = "";
 });
+
+
+
+
+const nightModeButton = document.getElementById("night-mode");
+nightModeButton.addEventListener("click", function() {
+    document.body.classList.toggle("night-mode");
+});
+
+
